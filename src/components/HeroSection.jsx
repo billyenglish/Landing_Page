@@ -13,9 +13,9 @@ const HeroSection = () => {
                     <p className="job-title">Software Engineer</p>
 
                     <div className="my-links">
-                        <FontAwesomeIcon icon={faGithub} size="3x" />
-                        <FontAwesomeIcon icon={faLinkedin} size="3x" />
-                        <FontAwesomeIcon icon={faMicrosoft} size="3x" />
+                        <FontAwesomeIcon icon={faGithub} size="4x" />
+                        <FontAwesomeIcon icon={faLinkedin} size="4x" />
+                        <FontAwesomeIcon icon={faMicrosoft} size="4x" />
                     </div>
                 </div>
             </section>

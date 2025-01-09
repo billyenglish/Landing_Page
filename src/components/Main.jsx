@@ -8,10 +8,6 @@ const Main = () => {
     return (
         <main>
             <HeroSection />
-            <About />
-            <Projects />
-            <Skills />
-            <ContactMe />
         </main>
     )
 }
